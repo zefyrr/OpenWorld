@@ -1,5 +1,25 @@
-# Builds
-Builds/
-builds/
-Build/
-build/
+# =============== #
+# Unity Generated #
+# =============== #
+[Bb]uilds/
+[Bb]uild/
+[Oo]bj/
+[Ll]ibrary/
+[Ttemp]/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+/*.csproj
+/*.unityproj
+/*.sln
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+
+# ===== #
+# macOS #
+# ===== #
+.DS_Store
